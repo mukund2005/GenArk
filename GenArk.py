@@ -1,4 +1,7 @@
+import pyfiglet
 import socket
+
+
 ascii_banner = pyfiglet.figlet_format("GenArk")
 print(ascii_banner)
 
